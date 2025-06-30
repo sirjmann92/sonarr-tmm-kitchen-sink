@@ -126,7 +126,7 @@ Instructions
     -   **Tags**: Optionally, add tags if you want the script to run only for series with specific tags.
 6.  **Click the Save button**
 7.  **Navigate to Metadata settings**
-    -  Click on Seeings in the left-hand menu.
+    -  Click on Settings in the left-hand menu.
     -  Click on the Metadata tab.
 8.  **Disable tvshow.nfo creation (if it's enabled)**
     -  Click on Kodi (XBMC) / Emby
